@@ -11,4 +11,4 @@
 
 ## Peer Reviewer:  Jeriah Marson
 
-## Peer Review:  It looks great and it works, the only things are the favrites you cant click on the name to bring you to that pokemon but i dont think that was required. also the search has to be in lowercase to work but other than that it woks great and looks great
+## Peer Review:  It looks great and it works, the only things are the favorites you cant click on the name to bring you to that pokemon but i dont think that was required. also the search has to be in lowercase to work but other than that it woks great and looks great
