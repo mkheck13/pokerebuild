@@ -6,6 +6,9 @@
 
 ## Create a single page pokemon application using the Pokemon API and React TypeScript
 
+## Github: https://github.com/mkheck13/pokerebuild.git
+## Vercel: https://pokerebuild.vercel.app/
+
 ## Peer Reviewer:  
 
 ## Peer Review:  
