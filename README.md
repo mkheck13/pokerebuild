@@ -8,6 +8,7 @@
 
 ## Github: https://github.com/mkheck13/pokerebuild.git
 ## Vercel: https://pokerebuild.vercel.app/
+## Figma: https://www.figma.com/file/IcLuJz1tk9UlMPA3tL9f7q/PokeLog-Figma?type=design&node-id=0%3A1&mode=design&t=FHgbyz2Zv16b3daP-1
 
 ## Peer Reviewer:  Jeriah Marson
 
